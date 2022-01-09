@@ -1,0 +1,41 @@
+{
+  "name": "vue3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.2.2",
+    "element-plus": "^1.1.0-beta.24",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "less": "3.0.0",
+    "less-loader": "5.0.0",
+    "mysql": "^2.18.1",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.0.0-rc.10",
+    "screenfull": "5.0.2",
+    "svg-sprite-loader": "^6.0.11",
+    "swiper": "^6.6.1",
+    "typescript": "^4.4.4",
+    "vue": "^3.0.0",
+    "vue-particles": "^1.0.9",
+    "vue-router": "^4.0.0-0",
+    "vuedraggable": "^2.24.3",
+    "vuex": "^4.0.0-0",
+    "wangeditor": "^4.7.9"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^5.0.0-beta.7",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}

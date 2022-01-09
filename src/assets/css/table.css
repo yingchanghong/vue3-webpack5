@@ -1,0 +1,9 @@
+.y-table-info,
+.y-content {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background: #fff;
+}
+.el-pagination {
+  text-align: right;
+}
